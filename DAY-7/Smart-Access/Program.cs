@@ -66,11 +66,9 @@ class Program
         string status = "";
 
         if(str[3].ToLower() == "false"){
-            Console.WriteLine("ACCESS DENIED – INACTIVE USER");
-            return;
+            status = "ACCESS DENIED – INACTIVE USER";
         }else if(attempts > 100){
-            Console.WriteLine("ACCESS DENIED – TOO MANY ATTEMPTS");
-            return;
+            status = "ACCESS DENIED – TOO MANY ATTEMPTS";
         }else if(level > 5){
             status = "ACCESS GRANTED – HIGH SECURITY";
         }else{
