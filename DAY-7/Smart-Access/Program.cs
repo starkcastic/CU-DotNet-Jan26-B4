@@ -76,7 +76,7 @@ class Program
         }
 
         Console.WriteLine($"{"Gate".PadRight(10)}: {gate}");
-        Console.WriteLine($"{"User".PadRight(10)}: {user}");
+        Console.WriteLine($"{"User".PadRight(10)}: {user}"); 
         Console.WriteLine($"{"Level".PadRight(10)}: {level}");
         Console.WriteLine($"{"Attempts".PadRight(10)}: {attempts}");
         Console.WriteLine($"{"Status".PadRight(10)}: {status}");
