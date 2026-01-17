@@ -31,6 +31,10 @@
         double highPre = annualPremiums.Max();
         double lowPre = annualPremiums.Min();
 
+        for(int i=0; i<5; i++)
+        {
+            policyHolderNames[i] = policyHolderNames[i].ToUpper();
+        }
 
         Console.WriteLine("Insurance Premium Summary");
         Console.WriteLine("-------------------------------");
