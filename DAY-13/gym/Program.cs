@@ -24,11 +24,9 @@ class GymMembership
         if (!treadmill && !weightLifting && !zumba)
         {
             Console.WriteLine("At least one service must be selected.");
-            return 200.00 + (double)(200 * 0.05);
+            return 1200.00 + (double)(1200 * 0.05);
         }
-
-        double total = 1000; 
-
+        double total = 1000;    
         if (treadmill)
             total += 300;
 
