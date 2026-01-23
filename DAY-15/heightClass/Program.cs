@@ -26,6 +26,7 @@ class Height{
 
     public Height(decimal inches)
     {
+        this.feet = 0;
         this.inches = inches;
 
         adjust();
