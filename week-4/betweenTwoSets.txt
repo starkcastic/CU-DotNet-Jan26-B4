@@ -1,0 +1,43 @@
+static int Gcd(int a, int b){
+    if (b == 0)
+        return a;
+    return Gcd(b, a % b);
+}
+
+static int Lcm(int a, int b){
+    return (a / Gcd(a, b)) * b;
+}
+
+public static int getTotalX(List<int> a, List<int> b)
+{
+    int temp = -1;
+    
+    foreach(var num in b){
+        if(temp == -1)
+            temp = num;
+            else
+            temp = Gcd(temp , num);
+    }
+    
+    int mul = -1; 
+
+    foreach(var num in a){
+        if (mul == -1)
+            mul = num;
+        else
+            mul = Lcm(mul, num);
+    }
+
+    
+    int st = mul;
+    int x = st;
+    int cnt = 0;
+
+    while(st <= temp){
+        if(temp % st == 0)
+            cnt++;
+        st += x;
+    }
+    
+    return cnt;
+}   
