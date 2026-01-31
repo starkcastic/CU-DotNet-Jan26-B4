@@ -32,9 +32,9 @@ class Height{
         adjust();
     }
 
-    public Height AddHeight(Height h2){
-        decimal x = inches + h2.inches;
-        int y = feet + h2.feet;
+    public static Height operator + (Height h1 , Height h2){
+        decimal x = h1.inches + h2.inches;
+        int y = h1.feet + h2.feet;
 
         while(x >= 12){
             y += 1;
@@ -42,7 +42,7 @@ class Height{
         }
 
         Height h3 = new Height(y , x);
-        adjust();
+        // adjust();
 
         return h3;
     }
@@ -67,7 +67,7 @@ class Program
         Height h2 = new Height(180m);
         Height h3 = new Height();
 
-        h3 = h1.AddHeight(h2);
+        h3 = h1 + h2;
 
         Console.WriteLine(h1);
         Console.WriteLine(h2);
