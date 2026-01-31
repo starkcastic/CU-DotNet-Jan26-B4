@@ -68,13 +68,13 @@ class HospitalBilling
     }
 
     public void GenerateDailyReport(){
-        System.Console.WriteLine("Daily Report");
+        Console.WriteLine("Daily Report");
 
         foreach(var item in Patients)
         {
-            System.Console.WriteLine(item.Name);
+            Console.WriteLine(item.Name);
             decimal ti = item.CalculateFinalBill();
-            System.Console.WriteLine(ti.ToString("C2"));
+            Console.WriteLine(ti.ToString("C2"));
         }
     }
 
@@ -109,13 +109,11 @@ class Program{
         billing.AddPatient(new Outpatient("Sita", 1000m, 2500m));
         billing.AddPatient(new EmergencyPatient("Arjun", 3000m, 4));
 
-        System.Console.WriteLine();
+        Console.WriteLine();
         billing.GenerateDailyReport();
 
-        Console.WriteLine("\nTotal Revenue: " +
-            billing.CalculateTotalRevenue().ToString("C2"));
+        Console.WriteLine("\nTotal Revenue: " + billing.CalculateTotalRevenue().ToString("C2"));
 
-        Console.WriteLine("Total Inpatients: " +
-            billing.GetInpatientCount());
+        Console.WriteLine("Total Inpatients: " + billing.GetInpatientCount());
     }
 }
