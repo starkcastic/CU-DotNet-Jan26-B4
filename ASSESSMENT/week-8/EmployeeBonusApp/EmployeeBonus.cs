@@ -29,7 +29,6 @@ namespace EmployeeBonusApp
 
                 decimal bonus = 0m;
 
-                // Step 1: Rating Bonus
                 switch (PerformanceRating)
                 {
                     case 5: bonus += 0.25m * BaseSalary; break;
@@ -41,31 +40,26 @@ namespace EmployeeBonusApp
                         throw new InvalidOperationException("Invalid performance rating.");
                 }
 
-                // Step 2: Experience Bonus
                 if (YearsOfExperience > 10)
                     bonus += 0.05m * BaseSalary;
                 else if (YearsOfExperience > 5)
                     bonus += 0.03m * BaseSalary;
 
-                // Step 3: Attendance Penalty
                 if (AttendancePercentage < 85)
                     bonus *= 0.8m;
 
-                // Step 4: Department Multiplier
                 bonus *= DepartmentMultiplier;
 
-                // Step 5: Cap at 40%
                 decimal maxBonus = 0.4m * BaseSalary;
                 if (bonus > maxBonus)
                     bonus = maxBonus;
 
-                // Step 6: Tax
                 if (bonus > 300000)
-                    bonus *= 0.7m;        // 30% tax
+                    bonus *= 0.7m;     
                 else if (bonus <= 150000)
-                    bonus *= 0.9m;        // 10% tax
+                    bonus *= 0.9m;        
                 else
-                    bonus *= 0.8m;        // 20% tax
+                    bonus *= 0.8m;       
 
                 return Math.Round(bonus, 2);
             }
