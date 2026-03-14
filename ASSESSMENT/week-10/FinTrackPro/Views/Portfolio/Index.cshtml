@@ -1,0 +1,40 @@
+@model List<FinTrackPro.Models.Asset>
+
+<h2>Portfolio</h2>
+
+@if(TempData["Message"] != null)
+{
+    <div class="alert alert-success">
+        @TempData["Message"]
+    </div>
+}
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Value</th>
+            <th>Action</th>
+        </tr>
+    </thead>
+
+    <tbody>
+        @foreach(var asset in Model)
+        {
+            <tr>
+                <td>@asset.Name</td>
+                <td>@asset.Value</td>
+                <td>
+                    <a href="/Asset/Info/@asset.Id">Details</a> |
+                    <a href="/Portfolio/Delete/@asset.Id">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+@{
+    double total = (double)ViewData["Total"];
+}
+
+<h4>Total Portfolio Value: @(total + 500)</h4>

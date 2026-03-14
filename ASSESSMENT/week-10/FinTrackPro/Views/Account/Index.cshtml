@@ -1,0 +1,26 @@
+@model List<FinTrackPro.Models.Account>
+
+<h2>Accounts</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Name</th>
+            <th>Balance</th>
+        </tr>
+    </thead>
+
+    <tbody>
+        @foreach(var acc in Model)
+        {
+            <tr>
+                <td>@acc.Id</td>
+                <td>@acc.Name</td>
+                <td>@acc.Balance</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a asp-action="Create" class="btn btn-primary">Create Account</a>
