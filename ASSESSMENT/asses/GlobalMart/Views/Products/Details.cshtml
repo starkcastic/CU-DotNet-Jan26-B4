@@ -1,0 +1,9 @@
+<h2>Product Details</h2>
+<table border="1" cellpadding="8">
+    <tr><th>Name</th><td>@ViewBag.ProductName</td></tr>
+    <tr><th>Base Price</th><td>$@ViewBag.BasePrice</td></tr>
+    <tr><th>Final Price</th><td>$@ViewBag.FinalPrice</td></tr>
+    <tr><th>Promo Applied</th><td>@(ViewBag.PromoApplied ?? "None")</td></tr>
+</table>
+<br/>
+<a href="/Products">Back to Products</a>

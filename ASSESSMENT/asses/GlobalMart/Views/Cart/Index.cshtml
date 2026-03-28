@@ -1,0 +1,33 @@
+@{
+    ViewData["Title"] = "Cart";
+    var lineItems = ViewBag.LineItems as IEnumerable<dynamic>;
+}
+
+<h2>Cart</h2>
+<p>Promo applied: <strong>@(ViewBag.PromoApplied ?? "None")</strong></p>
+
+<table border="1" cellpadding="8">
+    <thead>
+        <tr>
+            <th>Item</th>
+            <th>Base Price</th>
+            <th>Unit Price</th>
+            <th>Qty</th>
+            <th>Line Total</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in lineItems!)
+        {
+            <tr>
+                <td>@item.Name</td>
+                <td>$@item.BasePrice</td>
+                <td>$@item.UnitPrice</td>
+                <td>@item.Quantity</td>
+                <td>$@item.LineTotal</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<h3>Order Total: $@ViewBag.OrderTotal</h3>

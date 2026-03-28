@@ -1,0 +1,28 @@
+@{
+    ViewData["Title"] = "Products";
+    var products = ViewBag.Products as IEnumerable<dynamic>;
+}
+
+<h2>Products</h2>
+
+<table border="1" cellpadding="8">
+    <thead>
+        <tr>
+            <th>Product</th>
+            <th>Base Price</th>
+            <th>Discounted Price</th>
+            <th>Promo Applied</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var p in products!)
+        {
+            <tr>
+                <td>@p.Name</td>
+                <td>$@p.BasePrice</td>
+                <td>$@p.DiscountedPrice</td>
+                <td>@p.PromoApplied</td>
+            </tr>
+        }
+    </tbody>
+</table>
