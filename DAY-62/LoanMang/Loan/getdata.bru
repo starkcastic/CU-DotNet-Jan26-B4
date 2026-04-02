@@ -1,0 +1,15 @@
+meta {
+  name: getdata
+  type: http
+  seq: 2
+}
+
+get {
+  url: http://localhost:5186/api/loans
+  body: none
+  auth: inherit
+}
+
+settings {
+  encodeUrl: true
+}

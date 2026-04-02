@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Driving License</title>
+</head>
+
+<script>
+    function validateForm(){
+        var firstName = document.getElementById("first-name").value;
+        var dob = document.getElementById("dob").value;
+        var vehicleType = document.getElementById("vehicle-type").value;
+        var declaration = document.getElementById("declaration").checked;   
+
+        console.log({
+            firstName , dob , vehicleType , declaration
+        });
+    }
+</script>
+
+<body style="display: flex; justify-content: center; align-items: center; height: 100vh; flex-direction: column;">
+    <h1>Driving License Form</h1>
+    <form action="" onsubmit="validateForm()">
+
+        <table>
+            <tr>
+                <td><label for="first-name">First Name : </label></td>
+                <td><input type="text" required placeholder="John" id="first-name"></td>
+            </tr>
+            <tr>
+                <td><label for="last-name">Last Name : </label></td>
+                <td><input type="text" placeholder="Doe" id="last-name"></td>
+            </tr>
+            <tr>
+                <td><label for="dob">Date of Birth :</label></td>
+                <td><input type="date" required id="dob" min="1990-01-01" max="2026-03-03"></td>
+            </tr>
+            <tr>
+                <td><label for="email-id">Email id : </label></td>
+                <td><input type="email" name="email-id" id="email-id" placeholder="abc@gmail.com"></td>
+            </tr>
+            <tr>
+                <td><label for="phn-no">Phone no : </label></td>
+                <td><input type="tel" name="phn-no" id="phn-no" pattern="[0-9]{10}"></td>
+            </tr>
+            <tr>
+                <td><label for="vehicle-type">Vehicle Type : </label></td>
+                <td>
+                    <select name="vehicle-type" id="vehicle-type" required>
+                        <option value="">Select Vehicle Type</option>
+                        <option value="two-wheeler">Two Wheeler</option>
+                        <option value="four-wheeler">Four Wheeler</option>
+                        <option value="heavy-vehicle">Heavy Vehicle</option>
+                    </select>
+                </td>
+            </tr>
+            <tr>
+                <td><label for="gender">Gender : </label></td>
+                <td>
+                    <input type="radio" name="gender" id="male" value="Male">
+                    <label for="male">Male</label>
+
+                    <input type="radio" name="gender" id="female">
+                    <label for="female">Female</label>
+                </td>
+            </tr>
+            <tr>
+                <td>Declaration : </td>
+                <td>
+                    <input type="checkbox" name="declaration" id="declaration" required>
+                    <label for="declaration">I hereby declare that the above information is true</label>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <button type="submit">Submit</button>
+                    <button type="reset">Reset</button>
+                </td>
+            </tr>
+        </table>
+    </form>
+</body>
+</html>
