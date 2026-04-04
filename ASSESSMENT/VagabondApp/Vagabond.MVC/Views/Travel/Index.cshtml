@@ -1,0 +1,31 @@
+@model IEnumerable<Vagabond.MVC.Models.DestinationViewModel>
+
+@{
+    ViewData["Title"] = "Destinations";
+}
+
+<h2>Travel Destinations</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>City</th>
+            <th>Country</th>
+            <th>Description</th>
+            <th>Rating</th>
+            <th>Last Visited</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var d in Model)
+        {
+            <tr>
+                <td>@d.CityName</td>
+                <td>@d.Country</td>
+                <td>@d.Description</td>
+                <td>@d.Rating / 5</td>
+                <td>@d.LastVisited.ToShortDateString()</td>
+            </tr>
+        }
+    </tbody>
+</table>
