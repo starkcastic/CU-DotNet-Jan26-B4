@@ -1,0 +1,358 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Capgemini\\Cu-DotNet-Jan26-B4\\Assessments\\Week_15\\NorthwindCatalog\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E369BE92-608B-456C-ABBA-531069207AB6}|NorthwindCatalog.Services\\NorthwindCatalog.Services.csproj|d:\\capgemini\\cu-dotnet-jan26-b4\\assessments\\week_15\\northwindcatalog\\northwindcatalog.services\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E369BE92-608B-456C-ABBA-531069207AB6}|NorthwindCatalog.Services\\NorthwindCatalog.Services.csproj|solutionrelative:northwindcatalog.services\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D433C2E6-6976-4362-82E8-FB12A5D5AEC4}|NorthwindCatalog.Web\\NorthwindCatalog.Web.csproj|d:\\capgemini\\cu-dotnet-jan26-b4\\assessments\\week_15\\northwindcatalog\\northwindcatalog.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D433C2E6-6976-4362-82E8-FB12A5D5AEC4}|NorthwindCatalog.Web\\NorthwindCatalog.Web.csproj|solutionrelative:northwindcatalog.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E369BE92-608B-456C-ABBA-531069207AB6}|NorthwindCatalog.Services\\NorthwindCatalog.Services.csproj|d:\\capgemini\\cu-dotnet-jan26-b4\\assessments\\week_15\\northwindcatalog\\northwindcatalog.services\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E369BE92-608B-456C-ABBA-531069207AB6}|NorthwindCatalog.Services\\NorthwindCatalog.Services.csproj|solutionrelative:northwindcatalog.services\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E369BE92-608B-456C-ABBA-531069207AB6}|NorthwindCatalog.Services\\NorthwindCatalog.Services.csproj|d:\\capgemini\\cu-dotnet-jan26-b4\\assessments\\week_15\\northwindcatalog\\northwindcatalog.services\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E369BE92-608B-456C-ABBA-531069207AB6}|NorthwindCatalog.Services\\NorthwindCatalog.Services.csproj|solutionrelative:northwindcatalog.services\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E369BE92-608B-456C-ABBA-531069207AB6}|NorthwindCatalog.Services\\NorthwindCatalog.Services.csproj|d:\\capgemini\\cu-dotnet-jan26-b4\\assessments\\week_15\\northwindcatalog\\northwindcatalog.services\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E369BE92-608B-456C-ABBA-531069207AB6}|NorthwindCatalog.Services\\NorthwindCatalog.Services.csproj|solutionrelative:northwindcatalog.services\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D433C2E6-6976-4362-82E8-FB12A5D5AEC4}|NorthwindCatalog.Web\\NorthwindCatalog.Web.csproj|d:\\capgemini\\cu-dotnet-jan26-b4\\assessments\\week_15\\northwindcatalog\\northwindcatalog.web\\views\\summary\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D433C2E6-6976-4362-82E8-FB12A5D5AEC4}|NorthwindCatalog.Web\\NorthwindCatalog.Web.csproj|solutionrelative:northwindcatalog.web\\views\\summary\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E369BE92-608B-456C-ABBA-531069207AB6}|NorthwindCatalog.Services\\NorthwindCatalog.Services.csproj|d:\\capgemini\\cu-dotnet-jan26-b4\\assessments\\week_15\\northwindcatalog\\northwindcatalog.services\\controllers\\categoriesapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E369BE92-608B-456C-ABBA-531069207AB6}|NorthwindCatalog.Services\\NorthwindCatalog.Services.csproj|solutionrelative:northwindcatalog.services\\controllers\\categoriesapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E369BE92-608B-456C-ABBA-531069207AB6}|NorthwindCatalog.Services\\NorthwindCatalog.Services.csproj|d:\\capgemini\\cu-dotnet-jan26-b4\\assessments\\week_15\\northwindcatalog\\northwindcatalog.services\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E369BE92-608B-456C-ABBA-531069207AB6}|NorthwindCatalog.Services\\NorthwindCatalog.Services.csproj|solutionrelative:northwindcatalog.services\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E369BE92-608B-456C-ABBA-531069207AB6}|NorthwindCatalog.Services\\NorthwindCatalog.Services.csproj|d:\\capgemini\\cu-dotnet-jan26-b4\\assessments\\week_15\\northwindcatalog\\northwindcatalog.services\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E369BE92-608B-456C-ABBA-531069207AB6}|NorthwindCatalog.Services\\NorthwindCatalog.Services.csproj|solutionrelative:northwindcatalog.services\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E369BE92-608B-456C-ABBA-531069207AB6}|NorthwindCatalog.Services\\NorthwindCatalog.Services.csproj|d:\\capgemini\\cu-dotnet-jan26-b4\\assessments\\week_15\\northwindcatalog\\northwindcatalog.services\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E369BE92-608B-456C-ABBA-531069207AB6}|NorthwindCatalog.Services\\NorthwindCatalog.Services.csproj|solutionrelative:northwindcatalog.services\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E369BE92-608B-456C-ABBA-531069207AB6}|NorthwindCatalog.Services\\NorthwindCatalog.Services.csproj|d:\\capgemini\\cu-dotnet-jan26-b4\\assessments\\week_15\\northwindcatalog\\northwindcatalog.services\\northwindcatalog.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E369BE92-608B-456C-ABBA-531069207AB6}|NorthwindCatalog.Services\\NorthwindCatalog.Services.csproj|solutionrelative:northwindcatalog.services\\northwindcatalog.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E369BE92-608B-456C-ABBA-531069207AB6}|NorthwindCatalog.Services\\NorthwindCatalog.Services.csproj|d:\\capgemini\\cu-dotnet-jan26-b4\\assessments\\week_15\\northwindcatalog\\northwindcatalog.services\\northwindcatalog.services.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{E369BE92-608B-456C-ABBA-531069207AB6}|NorthwindCatalog.Services\\NorthwindCatalog.Services.csproj|solutionrelative:northwindcatalog.services\\northwindcatalog.services.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E369BE92-608B-456C-ABBA-531069207AB6}|NorthwindCatalog.Services\\NorthwindCatalog.Services.csproj|d:\\capgemini\\cu-dotnet-jan26-b4\\assessments\\week_15\\northwindcatalog\\northwindcatalog.services\\dtos\\categorysummarydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E369BE92-608B-456C-ABBA-531069207AB6}|NorthwindCatalog.Services\\NorthwindCatalog.Services.csproj|solutionrelative:northwindcatalog.services\\dtos\\categorysummarydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E369BE92-608B-456C-ABBA-531069207AB6}|NorthwindCatalog.Services\\NorthwindCatalog.Services.csproj|d:\\capgemini\\cu-dotnet-jan26-b4\\assessments\\week_15\\northwindcatalog\\northwindcatalog.services\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E369BE92-608B-456C-ABBA-531069207AB6}|NorthwindCatalog.Services\\NorthwindCatalog.Services.csproj|solutionrelative:northwindcatalog.services\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E369BE92-608B-456C-ABBA-531069207AB6}|NorthwindCatalog.Services\\NorthwindCatalog.Services.csproj|d:\\capgemini\\cu-dotnet-jan26-b4\\assessments\\week_15\\northwindcatalog\\northwindcatalog.services\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E369BE92-608B-456C-ABBA-531069207AB6}|NorthwindCatalog.Services\\NorthwindCatalog.Services.csproj|solutionrelative:northwindcatalog.services\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E369BE92-608B-456C-ABBA-531069207AB6}|NorthwindCatalog.Services\\NorthwindCatalog.Services.csproj|d:\\capgemini\\cu-dotnet-jan26-b4\\assessments\\week_15\\northwindcatalog\\northwindcatalog.services\\data\\northwindcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E369BE92-608B-456C-ABBA-531069207AB6}|NorthwindCatalog.Services\\NorthwindCatalog.Services.csproj|solutionrelative:northwindcatalog.services\\data\\northwindcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E369BE92-608B-456C-ABBA-531069207AB6}|NorthwindCatalog.Services\\NorthwindCatalog.Services.csproj|d:\\capgemini\\cu-dotnet-jan26-b4\\assessments\\week_15\\northwindcatalog\\northwindcatalog.services\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E369BE92-608B-456C-ABBA-531069207AB6}|NorthwindCatalog.Services\\NorthwindCatalog.Services.csproj|solutionrelative:northwindcatalog.services\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E369BE92-608B-456C-ABBA-531069207AB6}|NorthwindCatalog.Services\\NorthwindCatalog.Services.csproj|d:\\capgemini\\cu-dotnet-jan26-b4\\assessments\\week_15\\northwindcatalog\\northwindcatalog.services\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E369BE92-608B-456C-ABBA-531069207AB6}|NorthwindCatalog.Services\\NorthwindCatalog.Services.csproj|solutionrelative:northwindcatalog.services\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E369BE92-608B-456C-ABBA-531069207AB6}|NorthwindCatalog.Services\\NorthwindCatalog.Services.csproj|d:\\capgemini\\cu-dotnet-jan26-b4\\assessments\\week_15\\northwindcatalog\\northwindcatalog.services\\northwindcatalog.services.csproj.backup.tmp||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{E369BE92-608B-456C-ABBA-531069207AB6}|NorthwindCatalog.Services\\NorthwindCatalog.Services.csproj|solutionrelative:northwindcatalog.services\\northwindcatalog.services.csproj.backup.tmp||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 318,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "D:\\Capgemini\\Cu-DotNet-Jan26-B4\\Assessments\\Week_15\\NorthwindCatalog\\NorthwindCatalog.Services\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "NorthwindCatalog.Services\\Repositories\\ProductRepository.cs",
+              "ToolTip": "D:\\Capgemini\\Cu-DotNet-Jan26-B4\\Assessments\\Week_15\\NorthwindCatalog\\NorthwindCatalog.Services\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "NorthwindCatalog.Services\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAhwA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T07:01:57.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Capgemini\\Cu-DotNet-Jan26-B4\\Assessments\\Week_15\\NorthwindCatalog\\NorthwindCatalog.Services\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "NorthwindCatalog.Services\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Capgemini\\Cu-DotNet-Jan26-B4\\Assessments\\Week_15\\NorthwindCatalog\\NorthwindCatalog.Services\\Properties\\launchSettings.json",
+              "RelativeToolTip": "NorthwindCatalog.Services\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-18T06:14:23.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Capgemini\\Cu-DotNet-Jan26-B4\\Assessments\\Week_15\\NorthwindCatalog\\NorthwindCatalog.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "NorthwindCatalog.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Capgemini\\Cu-DotNet-Jan26-B4\\Assessments\\Week_15\\NorthwindCatalog\\NorthwindCatalog.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "NorthwindCatalog.Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAB2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-18T06:15:46.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Capgemini\\Cu-DotNet-Jan26-B4\\Assessments\\Week_15\\NorthwindCatalog\\NorthwindCatalog.Services\\Program.cs",
+              "RelativeDocumentMoniker": "NorthwindCatalog.Services\\Program.cs",
+              "ToolTip": "D:\\Capgemini\\Cu-DotNet-Jan26-B4\\Assessments\\Week_15\\NorthwindCatalog\\NorthwindCatalog.Services\\Program.cs",
+              "RelativeToolTip": "NorthwindCatalog.Services\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T05:07:27.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Capgemini\\Cu-DotNet-Jan26-B4\\Assessments\\Week_15\\NorthwindCatalog\\NorthwindCatalog.Services\\appsettings.json",
+              "RelativeDocumentMoniker": "NorthwindCatalog.Services\\appsettings.json",
+              "ToolTip": "D:\\Capgemini\\Cu-DotNet-Jan26-B4\\Assessments\\Week_15\\NorthwindCatalog\\NorthwindCatalog.Services\\appsettings.json",
+              "RelativeToolTip": "NorthwindCatalog.Services\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-18T04:50:37.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Capgemini\\Cu-DotNet-Jan26-B4\\Assessments\\Week_15\\NorthwindCatalog\\NorthwindCatalog.Web\\Views\\Summary\\Index.cshtml",
+              "RelativeDocumentMoniker": "NorthwindCatalog.Web\\Views\\Summary\\Index.cshtml",
+              "ToolTip": "D:\\Capgemini\\Cu-DotNet-Jan26-B4\\Assessments\\Week_15\\NorthwindCatalog\\NorthwindCatalog.Web\\Views\\Summary\\Index.cshtml",
+              "RelativeToolTip": "NorthwindCatalog.Web\\Views\\Summary\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-18T05:59:42.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CategoriesApiController.cs",
+              "DocumentMoniker": "D:\\Capgemini\\Cu-DotNet-Jan26-B4\\Assessments\\Week_15\\NorthwindCatalog\\NorthwindCatalog.Services\\Controllers\\CategoriesApiController.cs",
+              "RelativeDocumentMoniker": "NorthwindCatalog.Services\\Controllers\\CategoriesApiController.cs",
+              "ToolTip": "D:\\Capgemini\\Cu-DotNet-Jan26-B4\\Assessments\\Week_15\\NorthwindCatalog\\NorthwindCatalog.Services\\Controllers\\CategoriesApiController.cs",
+              "RelativeToolTip": "NorthwindCatalog.Services\\Controllers\\CategoriesApiController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T05:27:34.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "D:\\Capgemini\\Cu-DotNet-Jan26-B4\\Assessments\\Week_15\\NorthwindCatalog\\NorthwindCatalog.Services\\Repositories\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "NorthwindCatalog.Services\\Repositories\\CategoryRepository.cs",
+              "ToolTip": "D:\\Capgemini\\Cu-DotNet-Jan26-B4\\Assessments\\Week_15\\NorthwindCatalog\\NorthwindCatalog.Services\\Repositories\\CategoryRepository.cs",
+              "RelativeToolTip": "NorthwindCatalog.Services\\Repositories\\CategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T05:21:28.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "D:\\Capgemini\\Cu-DotNet-Jan26-B4\\Assessments\\Week_15\\NorthwindCatalog\\NorthwindCatalog.Services\\Repositories\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "NorthwindCatalog.Services\\Repositories\\IProductRepository.cs",
+              "ToolTip": "D:\\Capgemini\\Cu-DotNet-Jan26-B4\\Assessments\\Week_15\\NorthwindCatalog\\NorthwindCatalog.Services\\Repositories\\IProductRepository.cs",
+              "RelativeToolTip": "NorthwindCatalog.Services\\Repositories\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T05:21:07.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "D:\\Capgemini\\Cu-DotNet-Jan26-B4\\Assessments\\Week_15\\NorthwindCatalog\\NorthwindCatalog.Services\\Repositories\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "NorthwindCatalog.Services\\Repositories\\ICategoryRepository.cs",
+              "ToolTip": "D:\\Capgemini\\Cu-DotNet-Jan26-B4\\Assessments\\Week_15\\NorthwindCatalog\\NorthwindCatalog.Services\\Repositories\\ICategoryRepository.cs",
+              "RelativeToolTip": "NorthwindCatalog.Services\\Repositories\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T05:20:24.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "NorthwindCatalog.Services",
+              "DocumentMoniker": "D:\\Capgemini\\Cu-DotNet-Jan26-B4\\Assessments\\Week_15\\NorthwindCatalog\\NorthwindCatalog.Services\\NorthwindCatalog.Services.csproj",
+              "RelativeDocumentMoniker": "NorthwindCatalog.Services\\NorthwindCatalog.Services.csproj",
+              "ToolTip": "D:\\Capgemini\\Cu-DotNet-Jan26-B4\\Assessments\\Week_15\\NorthwindCatalog\\NorthwindCatalog.Services\\NorthwindCatalog.Services.csproj",
+              "RelativeToolTip": "NorthwindCatalog.Services\\NorthwindCatalog.Services.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-18T05:14:11.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NorthwindCatalog.Services",
+              "DocumentMoniker": "D:\\Capgemini\\Cu-DotNet-Jan26-B4\\Assessments\\Week_15\\NorthwindCatalog\\NorthwindCatalog.Services\\NorthwindCatalog.Services.csproj",
+              "RelativeDocumentMoniker": "NorthwindCatalog.Services\\NorthwindCatalog.Services.csproj",
+              "ToolTip": "D:\\Capgemini\\Cu-DotNet-Jan26-B4\\Assessments\\Week_15\\NorthwindCatalog\\NorthwindCatalog.Services\\NorthwindCatalog.Services.csproj",
+              "RelativeToolTip": "NorthwindCatalog.Services\\NorthwindCatalog.Services.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-18T05:13:59.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CategorySummaryDto.cs",
+              "DocumentMoniker": "D:\\Capgemini\\Cu-DotNet-Jan26-B4\\Assessments\\Week_15\\NorthwindCatalog\\NorthwindCatalog.Services\\DTOs\\CategorySummaryDto.cs",
+              "RelativeDocumentMoniker": "NorthwindCatalog.Services\\DTOs\\CategorySummaryDto.cs",
+              "ToolTip": "D:\\Capgemini\\Cu-DotNet-Jan26-B4\\Assessments\\Week_15\\NorthwindCatalog\\NorthwindCatalog.Services\\DTOs\\CategorySummaryDto.cs",
+              "RelativeToolTip": "NorthwindCatalog.Services\\DTOs\\CategorySummaryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T05:12:39.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "D:\\Capgemini\\Cu-DotNet-Jan26-B4\\Assessments\\Week_15\\NorthwindCatalog\\NorthwindCatalog.Services\\DTOs\\ProductDto.cs",
+              "RelativeDocumentMoniker": "NorthwindCatalog.Services\\DTOs\\ProductDto.cs",
+              "ToolTip": "D:\\Capgemini\\Cu-DotNet-Jan26-B4\\Assessments\\Week_15\\NorthwindCatalog\\NorthwindCatalog.Services\\DTOs\\ProductDto.cs",
+              "RelativeToolTip": "NorthwindCatalog.Services\\DTOs\\ProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T05:12:19.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CategoryDto.cs",
+              "DocumentMoniker": "D:\\Capgemini\\Cu-DotNet-Jan26-B4\\Assessments\\Week_15\\NorthwindCatalog\\NorthwindCatalog.Services\\DTOs\\CategoryDto.cs",
+              "RelativeDocumentMoniker": "NorthwindCatalog.Services\\DTOs\\CategoryDto.cs",
+              "ToolTip": "D:\\Capgemini\\Cu-DotNet-Jan26-B4\\Assessments\\Week_15\\NorthwindCatalog\\NorthwindCatalog.Services\\DTOs\\CategoryDto.cs",
+              "RelativeToolTip": "NorthwindCatalog.Services\\DTOs\\CategoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T05:11:53.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Capgemini\\Cu-DotNet-Jan26-B4\\Assessments\\Week_15\\NorthwindCatalog\\NorthwindCatalog.Services\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "NorthwindCatalog.Services\\Models\\Product.cs",
+              "ToolTip": "D:\\Capgemini\\Cu-DotNet-Jan26-B4\\Assessments\\Week_15\\NorthwindCatalog\\NorthwindCatalog.Services\\Models\\Product.cs",
+              "RelativeToolTip": "NorthwindCatalog.Services\\Models\\Product.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T05:06:47.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\Capgemini\\Cu-DotNet-Jan26-B4\\Assessments\\Week_15\\NorthwindCatalog\\NorthwindCatalog.Services\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "NorthwindCatalog.Services\\Models\\Category.cs",
+              "ToolTip": "D:\\Capgemini\\Cu-DotNet-Jan26-B4\\Assessments\\Week_15\\NorthwindCatalog\\NorthwindCatalog.Services\\Models\\Category.cs",
+              "RelativeToolTip": "NorthwindCatalog.Services\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T05:05:36.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "NorthwindContext.cs",
+              "DocumentMoniker": "D:\\Capgemini\\Cu-DotNet-Jan26-B4\\Assessments\\Week_15\\NorthwindCatalog\\NorthwindCatalog.Services\\Data\\NorthwindContext.cs",
+              "RelativeDocumentMoniker": "NorthwindCatalog.Services\\Data\\NorthwindContext.cs",
+              "ToolTip": "D:\\Capgemini\\Cu-DotNet-Jan26-B4\\Assessments\\Week_15\\NorthwindCatalog\\NorthwindCatalog.Services\\Data\\NorthwindContext.cs",
+              "RelativeToolTip": "NorthwindCatalog.Services\\Data\\NorthwindContext.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAkwEAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T05:04:03.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "NorthwindCatalog.Services.csproj.Backup.tmp",
+              "DocumentMoniker": "D:\\Capgemini\\Cu-DotNet-Jan26-B4\\Assessments\\Week_15\\NorthwindCatalog\\NorthwindCatalog.Services\\NorthwindCatalog.Services.csproj.Backup.tmp",
+              "RelativeDocumentMoniker": "NorthwindCatalog.Services\\NorthwindCatalog.Services.csproj.Backup.tmp",
+              "ToolTip": "D:\\Capgemini\\Cu-DotNet-Jan26-B4\\Assessments\\Week_15\\NorthwindCatalog\\NorthwindCatalog.Services\\NorthwindCatalog.Services.csproj.Backup.tmp",
+              "RelativeToolTip": "NorthwindCatalog.Services\\NorthwindCatalog.Services.csproj.Backup.tmp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-18T04:50:25.657Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
